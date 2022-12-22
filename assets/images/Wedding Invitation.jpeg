@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!-- saved from url=(0059)file:///C:/Users/USER/Desktop/invitation/index.html#wedding -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Wedding Invitation</title>
+    <link rel="stylesheet" href="./Wedding Invitation_files/style.css">
+</head>
+<body>
+
+    <header>
+        <div class="containe"> 
+             <div class="h">
+                 <h1>John &amp; Jane</h1>
+                 <h2> Are getting married</h2>
+                 <h3> 17.07.2017</h3>
+             </div>
+        </div>
+    </header>
+            <div class="wdx">
+                <h1>Jane &amp; John </h1>    
+                     <img class="a" src="./Wedding Invitation_files/wedding_couple2.jpg">
+                               <center><p class="b">You all know us well and we all know you . 
+                                We are gtting married Lorem ipsum dolor sit amet
+                                consectetur, adipisicing elit. Nihil voluptate est 
+                                consequatur totam ut error earum debitis perspiciatis
+                                sint mollitia, blanditiis fugiat dicta explicabo beatae 
+                                autem repellat porro non qui. Lorem ipsum, dolor sit amet
+                                consectetur adipisicing elit. Quaerat eos veritatis iste 
+                                saepe deleniti laudantium quisquam similique eaque incidunt. 
+                                Ab velit repellendus saepe accusantium dolore, sit nesciunt 
+                                laborum quia iste.</p></center>
+            </div> 
+            <div class="c">
+                <a class="d" href="file:///C:/Users/USER/Desktop/invitation/WEDDING%20DETAILS"><button>Wedding Details</button></a>
+            </div>
+            <div class="e">
+                 <div><h1 class="f">You<br> Are<br> Invited<br> Of course..</h1>
+                 </div>
+            </div>
+            <div class="g">
+                <h1>THE WEDDINNG</h1>
+            </div>
+            <div class="i">
+                <img src="./Wedding Invitation_files/wedding_location.jpg">
+            </div>
+                <div class="l">
+                    <div class="j">
+                        <h2>When</h2>
+                            <p>Wedding Ceremony - 2:00pm</p>
+                            <p>Reception &amp; Dinner - 5:00pm</p>
+                    </div>
+                    <div class="k">
+                        <h2>Where</h2>
+                        <p>Some place, an address</p>
+                        <p>Some where, some address</p>
+                    </div>
+                </div>
+            <div class="m">
+                <div class="o"><h1>HOPE YOU CAN <br> MAKE IT!</h1>
+                     <p>Kindly Respond By January<br>2017</p>
+                         <a class="n" href="file:///C:/Users/USER/Desktop/invitation/RSVP"><button>RSVP</button></a>
+                </div>         
+            </div>
+            <div class="p">
+                <div>
+                    <h5>Powered by <u>w</u>3.<u>css</u></h5>
+                </div>    
+            </div>                 
+            <div class="nav-bar">
+                <div class="nav">
+                    <a href="file:///C:/Users/USER/Desktop/invitation/index.html#home" class="na">Home</a>
+                    <a href="file:///C:/Users/USER/Desktop/invitation/index.html#us" class="na">Jane<code>&amp;</code>John</a>
+                    <a href="file:///C:/Users/USER/Desktop/invitation/index.html#wedding" class="na">Wedding</a>
+                    <a href="file:///C:/Users/USER/Desktop/invitation/index.html#rsvp" class="na">RSVP</a>  
+                </div>
+            </div>
+
+</body></html>
