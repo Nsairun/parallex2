@@ -434,10 +434,10 @@ header {
     padding: 0;
     display: block;
     /* font-size: smaller; */
-	  /* font-size: 25px; */
+    /* font-size: 25px; */
   }
 
-  .weblogo{
+  .weblogo {
     display: none;
   }
 
@@ -456,8 +456,6 @@ header {
     background-image: 300px;
     background-repeat: no-repeat;
   }
-
-
 
   .nav1 {
     display: block;
@@ -483,7 +481,7 @@ header {
     /* flex-direction: column; */
   }
 
-  .container .para{
+  .container .para {
     display: block;
   }
 
@@ -522,9 +520,9 @@ header {
     display: block;
   }
 
-   .t{
+  .t {
     display: block;
-   }
+  }
 
   .ab {
     margin-top: 10%;
@@ -536,7 +534,7 @@ header {
     margin: 0;
     padding: 0;
     /* flex-direction: column; */
-	  /* flex-wrap: wrap; */
+    /* flex-wrap: wrap; */
     /* margin: none; */
     /* align-content: center; */
   }
@@ -545,7 +543,7 @@ header {
     width: 90%;
   }
 
-  .where-subcontainer{
+  .where-subcontainer {
     display: block;
     /* margin: 5%; */
     gap: 2rem;
@@ -554,7 +552,7 @@ header {
     width: 100%;
   }
 
-  .cbd{
+  .cbd {
     display: block;
     /* margin-bottom: 3%; */
     margin: 0;
@@ -573,7 +571,6 @@ header {
     margin-top: 20%;
   }
 
-
   .sendbtn {
     margin-top: 3%;
     /* text-align: center; */
@@ -581,7 +578,7 @@ header {
     height: 55px;
     width: 150px;
     border: none;
-	/* margin-left: 5%; */
+    /* margin-left: 5%; */
   }
 
   .foot {
@@ -589,10 +586,10 @@ header {
   }
 
   .foot1 {
-	margin-bottom: 13%;
+    margin-bottom: 13%;
   }
 
   .foot2 {
-	margin-top: 10%;
+    margin-top: 10%;
   }
 }
