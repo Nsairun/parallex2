@@ -4,7 +4,7 @@ body {
 }
 
 .container1 {
-	margin: auto;
+  margin: auto;
   background-color: #7fffd47a;
   padding: 80px;
   display: flex;
@@ -34,8 +34,8 @@ body {
 }
 
 button {
-	background-color: #000000;
-	color: #ffffff;
+  background-color: #000000;
+  color: #ffffff;
   padding: 10px;
   height: 5vh;
   width: 10vw;
@@ -53,4 +53,3 @@ button {
   border: none;
   text-align: center;
 }
-
